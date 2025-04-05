@@ -1,6 +1,50 @@
-.center{
-    display: block;
-  margin-left: 100x;
-  margin-right: 100px;
-  width: 50%;
+h1{
+  text-align: center;
+  margin-bottom: auto;
+}
+
+.profile {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.center {
+  width: 150px;     
+    height: 150px;
+    object-fit: cover;   
+    border-radius: 50%;  
+    border: 3px solid darkcyan;
+}
+
+h2 {
+  text-align: left;
+  color:darkcyan;
+  font-size: 25px;
+  border-bottom: 2px solid darkcyan;
+}
+.text {
+  color:grey;
+}
+h3 {
+  text-align: left;
+  color:darkcyan;
+  font-size: 25px;
+  border-bottom: 2px solid darkcyan;
+}
+
+.hobbies {
+  color:grey;
+}
+
+h4 {
+  text-align: left;
+  color:darkcyan;
+  font-size: 25px;
+  border-bottom: 2px solid darkcyan;
+}
+
+.contact {
+  text-align: left;
+  color:grey;
 }

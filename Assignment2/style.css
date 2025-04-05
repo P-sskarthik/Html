@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    margin-bottom: auto;
+}
+h2 {
+    text-align: left;
+    color:coral;
+    font-size: 25px;
+}
+.items {
+    display: flex;
+    text-align: left;
+    color:grey;
+}
+
+h3 {
+    text-align: left;
+    color:coral;
+    font-size: 25px;
+}
+.main {
+    text-align: left;
+    color:grey;
+}
+
+h4 {
+    text-align: left;
+    color:coral;
+    font-size: 25px;
+}
+
+.desserts {
+    text-align: left;
+    color:grey;
+}
