@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+.name {
+    text-align: left;
+}
+
+.style{
+    width: 500px;
+    height: 100px;
+}
+.inputname {
+    width:500px;
+}
+
+.inputemail {
+    width:500px; 
+}
+.submit {
+    width:508px;
+    background-color: steelblue;
+    -webkit-text-fill-color: azure;
+    
+}
