@@ -1,25 +1,45 @@
+.container{
+    background-color: beige;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 3px;
+    border-radius: 5px;
+    margin-bottom: 900px;
+}
+
 h1 {
-    text-align: center;
+
+    margin-left: 400px;
 }
 
 .name {
-    text-align: left;
+    margin-left: 300px;
+    
 }
-
+.email{
+    margin-left: 300px;
+}
+.message{
+    margin-left: 300px; 
+}
 .style{
-    width: 500px;
+    width: 300px;
     height: 100px;
+    margin-left: 300px;;
 }
 .inputname {
-    width:500px;
+    width:300px;
+    margin-left: 300px;;
 }
 
 .inputemail {
-    width:500px; 
+    width:300px; 
+    margin-left: 300px;
 }
 .submit {
-    width:508px;
+    width:308px;
     background-color: steelblue;
     -webkit-text-fill-color: azure;
+    margin-left: 300px;
     
 }

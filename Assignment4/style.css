@@ -1,0 +1,18 @@
+.first{
+    text-align: center;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+}
+.flex-container {
+    display: flex;
+   border: dotted blue;
+
+  }
+  
+  .flex-image {
+    background-color: aqua;
+  }
