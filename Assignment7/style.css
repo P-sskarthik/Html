@@ -1,0 +1,54 @@
+.header {
+    display: flex;
+    font-style: bold;
+   
+    background-color: gray;
+}
+
+
+.header > .design > p {
+    font-weight: bolder;
+}
+.design {
+    display: flex;
+    font-style: bold;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list-container {
+    display: flex;
+  
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    margin-top: 20px;
+    width: auto;
+    min-height: 30vh;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+.second {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-color: lightgray;
+    margin-top: 20px;
+    width: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.align {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
